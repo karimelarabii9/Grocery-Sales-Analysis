@@ -61,3 +61,4 @@ Average Sales per Item: $141.
 Conclusion
 
 This project provides valuable insights into grocery sales trends, helping businesses optimize inventory and improve sales strategies. The Power BI dashboard offers an interactive way to analyze data and extract meaningful insights.
+
